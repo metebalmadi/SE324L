@@ -1,0 +1,28 @@
+<html>
+<head>
+    <title>Ex3 Children Awareness</title>
+</head>
+<body>
+
+    <img src="./images/img2.jpg" height="340" width="490">
+    <h1>Important Kids Tips</h1>
+    <ol style="font-size: 20px;">
+        <li>Know your home address and phone number</li>
+        <li>Never go anywhere with a stranger</li>
+        <li>No one is allowed to touch you</li>
+        <li>Don't post or give out any personal information like</li>
+            <ul>
+                <li>phone number</li>
+                <li>address</li>
+                <li>likes / dislikes</li>
+                <li>passwords</li>
+            </ul>
+        <li>Know how and when to call the police</li>
+        <li>No adult should ask you to keep secrets</li>
+    </ol>
+
+    <a href="./Exercise4.html">Back</a>
+
+</body>
+
+</html>

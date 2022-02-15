@@ -1,0 +1,97 @@
+<html>
+    <head>
+        <title>Ex1 About Me 2</title>
+
+    </head>
+
+    <body style="background-color: black; ">
+
+        <h1 style = "color: aqua;">
+            About Me - Type your name here
+        </h1>
+
+        <a style="color: darkorchid;" href="#Courses">Courses</a>
+        <a style="color: darkorchid;" href="#Movies">Movies</a>
+        <a style="color: darkorchid;" href="#Moods">Moods</a>
+        <a style="color: darkorchid;" href="#Pets">Pets</a>
+        <a style="color: darkorchid;" href="./Exercise3_Children_Awareness.html">Tips</a>
+        <a style="color: darkorchid;" href="https://i.etsystatic.com/5129215/r/il/882d5e/726152204/il_794xN.726152204_74zo.jpg">Quote</a>
+        
+
+
+        <h3>
+            <font style="color: lightcoral;">
+                <b>Languages</b>
+            </font>
+            
+            <font style="background-color:ivory"> 
+
+            <i> &lt; Arabic, English, French &amp; Turkish &gt; </i> 
+
+            </font>
+        
+        </h3>
+
+        <hr>
+
+        <div id="Courses">
+            <h4 style="color: coral;">My Classes This Semester</h4>
+
+            <ul style="color: white;">
+                <li>SE 100 - Introduction to Programming</li>
+                <li>SE 324 - Web Development</li>
+                <li>SE 312 - Database Management</li>
+            </ul>
+
+        </div>
+
+
+
+        <div id="Movies">
+            <h4 style="color: coral;">My Favorite Movies</h4>
+            <ol style="color: white;">
+                <li>Frozen <a style="color: darkorchid;" href="https://www.putlocker.me/frozen-2/">Visit Here</a></li> 
+                <li>Lion King <a style="color: darkorchid;" href="https://putlocker.me/movie/the-lion-king/">Visit Here</a></li>
+                <li>Mulan <a style="color: darkorchid;" href="https://www.putlocker.me/mulan-2/">Visit Here</a></li>
+            </ol>
+        </div>
+
+
+        <div id="Moods">
+        <h4 style="color: coral;">My Moods</h4>
+
+        <p style="color: white;">Happy: <img height="120" width="80" src="./images/happy.jpg"> &nbsp;&nbsp; Sad: <img height="120" width="80" src="./images/sad.jpg"> </p> 
+
+        </div>   
+
+
+        <div id="Pets">
+        <h4 style="color: coral;">My Favorite Pets</h4>
+        
+            <img height="180" width="180" src="./images/cat.jpg" > 
+            <img height="180" width="180" src="./images/bird.jpg" > 
+            <img height="180" width="180" src="./images/husky.jpg" > 
+
+            <p style="color: white;">
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cats &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                 Birds 
+                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                 Husky
+                </p> 
+        
+        </div>
+
+
+    </body>
+
+</html>
